@@ -1,4 +1,4 @@
-// This is a solution I found online, I studied it and implemented it myself
+// This is a solution I found online, I studied it and implemented it myself - DAY 4
 
 const isIsomorphic = (s, t) => {
     if (s.length !== t.length) return false

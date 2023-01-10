@@ -1,4 +1,4 @@
-// first trial by me
+// first trial by me - DAY 3
 
 const isPalindrome = (x) => {
     let stringNum = x.toString();
